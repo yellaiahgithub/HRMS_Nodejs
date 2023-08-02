@@ -1,0 +1,7 @@
+{"event":{"category":"general"},"log.level":"error","message":"Local Auth Strategy Failed: ReferenceError: userDetails is not defined","timestamp":"2023-01-24T04:40:39.810Z"}
+{"event":{"category":"general"},"log.level":"error","message":"Local Auth Strategy Failed: ReferenceError: userDetails is not defined","timestamp":"2023-01-24T04:40:58.138Z"}
+{"event":{"category":"general"},"log.level":"error","message":"Local Auth Strategy Failed: ReferenceError: userDetails is not defined","timestamp":"2023-01-24T04:41:56.576Z"}
+{"event":{"category":"general"},"log.level":"error","message":"Local Auth Strategy Failed: MongooseServerSelectionError: connection timed out","timestamp":"2023-01-24T07:05:43.420Z"}
+{"event":{"category":"general"},"log.level":"error","message":"Local Auth Strategy Failed: MongooseServerSelectionError: connection timed out","timestamp":"2023-01-24T07:22:02.330Z"}
+{"event":{"category":"general"},"log.level":"error","message":"Local Auth Strategy Failed: Error: error","timestamp":"2023-01-24T07:22:10.267Z"}
+{"event":{"category":"general"},"log.level":"error","message":"Local Auth Strategy Failed: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","timestamp":"2023-01-25T11:20:24.139Z"}

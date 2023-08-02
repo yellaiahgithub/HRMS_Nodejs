@@ -1,0 +1,17 @@
+{
+    "settings": {
+        "disableLogMetadata": false,
+        "pagination": {
+            "limit": 20
+        },
+        "server":{
+            "email": "notify@namyahr.com"
+        },
+        "serverURL" : "http://ec2-15-207-71-249.ap-south-1.compute.amazonaws.com:4000",
+        "s3_port": 80,
+        "s3_useSSL": false,
+        "s3_access_key": "AKIATOBVMLON2KP6Q4ES",
+        "s3_secret_key": "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",
+        "s3_bucket": "hrmsbucket-dev"
+    }
+}

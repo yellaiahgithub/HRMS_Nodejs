@@ -1,0 +1,34 @@
+{
+  "log": {
+    "category": {
+      "api": {
+        "critical": false,
+        "error": false,
+        "warning": false,
+        "info": true,
+        "debug": false
+      },
+      "security": {
+        "critical": true,
+        "error": true,
+        "warning": false,
+        "info": true,
+        "debug": false
+      },
+      "session": {
+        "critical": false,
+        "error": false,
+        "warning": false,
+        "info": true,
+        "debug": false
+      },
+      "general": {
+        "critical": true,
+        "error": true,
+        "warning": true,
+        "info": true,
+        "debug": true
+      }
+    }
+  }
+}

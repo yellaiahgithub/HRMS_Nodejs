@@ -1,0 +1,46 @@
+exports.LEAVE_ACCRUAL_POLICY_ENUM={
+    ACCRUAL_CRITERIA:{
+        WORKING_DAYS:"Working Days",
+        SERVICE_PERIOD:"Service Period"
+    },
+    RULES:{
+        ACCRUAL_FREQUENCY:{
+            MONTHLY:"Monthly",
+            QUARTERLY:"Quarterly",
+            HALF_YEARLY:"Half-yearly",
+            ANNUALLY:"Annually"
+        },
+        ACCRUAL_AFTER:{
+            UNIT:{
+                DAYS:"Days",
+                MONTHS:"Months"
+            }
+        },
+        ELIGIBLE_LEAVE:{
+            UNIT:{
+                DAYS:"Days",
+                WEEKS:"Weeks",
+                MONTHS:"Months"
+            }
+        }
+    }
+}
+
+exports.LEAVE_ACCUMULATION_POLICY_ENUM={
+    RULES:{
+        CARRY_FORWARD_LIMIT:{
+            UNIT:{
+                DAYS:"Days",
+                WEEKS:"Weeks",
+                MONTHS:"Months"
+            }
+        },
+        ACCUMULATION_LIMIT:{
+            UNIT:{
+                DAYS:"Days",
+                WEEKS:"Weeks",
+                MONTHS:"Months"
+            }
+        }
+    }
+}
